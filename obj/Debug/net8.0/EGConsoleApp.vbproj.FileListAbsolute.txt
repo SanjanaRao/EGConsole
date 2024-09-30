@@ -1,0 +1,14 @@
+/Users/sanjanarao/Desktop/EGConsoleApp/obj/Debug/net8.0/EGConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjanarao/Desktop/EGConsoleApp/obj/Debug/net8.0/EGConsoleApp.AssemblyInfoInputs.cache
+/Users/sanjanarao/Desktop/EGConsoleApp/obj/Debug/net8.0/EGConsoleApp.AssemblyInfo.vb
+/Users/sanjanarao/Desktop/EGConsoleApp/obj/Debug/net8.0/EGConsoleApp.vbproj.CoreCompileInputs.cache
+/Users/sanjanarao/Desktop/EGConsoleApp/bin/Debug/net8.0/EGConsoleApp
+/Users/sanjanarao/Desktop/EGConsoleApp/bin/Debug/net8.0/EGConsoleApp.deps.json
+/Users/sanjanarao/Desktop/EGConsoleApp/bin/Debug/net8.0/EGConsoleApp.runtimeconfig.json
+/Users/sanjanarao/Desktop/EGConsoleApp/bin/Debug/net8.0/EGConsoleApp.dll
+/Users/sanjanarao/Desktop/EGConsoleApp/bin/Debug/net8.0/EGConsoleApp.pdb
+/Users/sanjanarao/Desktop/EGConsoleApp/obj/Debug/net8.0/EGConsoleApp.dll
+/Users/sanjanarao/Desktop/EGConsoleApp/obj/Debug/net8.0/refint/EGConsoleApp.dll
+/Users/sanjanarao/Desktop/EGConsoleApp/obj/Debug/net8.0/EGConsoleApp.pdb
+/Users/sanjanarao/Desktop/EGConsoleApp/obj/Debug/net8.0/EGConsoleApp.genruntimeconfig.cache
+/Users/sanjanarao/Desktop/EGConsoleApp/obj/Debug/net8.0/ref/EGConsoleApp.dll
